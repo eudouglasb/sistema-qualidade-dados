@@ -1,0 +1,21 @@
+{
+  "nome_squad": "FuturoTech",
+  "versao_api": "1.0",
+  "data_coleta": "2026-09-15",
+  "registros_vendas": [
+    {
+      "id_transacao": 1001,
+      "cliente": "Empresa ABC",
+      "valor_total": 1550.50,
+      "status_qualidade": "VALIDO",
+      "campos_nulos": 0
+    },
+    {
+      "id_transacao": 1002,
+      "cliente": "Empresa XYZ",
+      "valor_total": 0.00,
+      "status_qualidade": "INVALIDO",
+      "campos_nulos": 2
+    }
+  ]
+}
